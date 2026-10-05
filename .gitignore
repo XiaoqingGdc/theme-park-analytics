@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Données collectées (ne pas versionner)
+data/
+*.json.gz
+
+# Airflow
+logs/
+
+# Secrets
+.env
