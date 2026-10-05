@@ -13,3 +13,9 @@ logs/
 
 # Secrets
 .env
+
+
+# Système et éditeur
+.DS_Store
+Thumbs.db
+.vscode/
